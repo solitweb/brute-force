@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+package-lock.json
+dist/config.php
+dist/allowed/*.dat
+!dist/allowed/.gitkeep
